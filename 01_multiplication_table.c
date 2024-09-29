@@ -9,5 +9,5 @@ int main()
     {
         printf("%d x %d = %d\n,num, i, i*num");
     }
-    return 0;
+    return 0;  
 }
